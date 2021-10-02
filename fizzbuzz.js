@@ -14,4 +14,5 @@ function fizzBuzz(start,end){
         }
     }
     console.log("hii i am sak");
+    console.log("hello sak");
 }

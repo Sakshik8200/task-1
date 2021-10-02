@@ -13,4 +13,5 @@ function fizzBuzz(start,end){
             console.log(num)
         }
     }
+    console.log("hello i am sak");
 }
